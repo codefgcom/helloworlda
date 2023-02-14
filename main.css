@@ -19,3 +19,11 @@ body {
     font-size: 12px;
     color: #bbb;
 }
+
+.a-btn-container a {
+    margin: 2px;
+}
+
+.layui-btn+.layui-btn {
+    margin: 2px;
+}
